@@ -1,4 +1,4 @@
-let arr = [75, 133, 9002, 7, 157]
+let arr = [920, 1312, 4730, 5765, 3255]
 let link = "";
 
 for(let item of arr) {
