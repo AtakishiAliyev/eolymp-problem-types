@@ -3,6 +3,6 @@ let arr = [1, 2, 519, 902, 903, 906, 911, 929, 931, 933, 935, 939, 941, 943, 945
 let link = "";
 
 for(let item of arr) {
-    link = `[${item}](https://www.eolymp.com/az/problems/${item})`;
+    link = `[${item}](https://www.eolymp.com/az/problems/${item}){:target="_blank"}`;
     console.log(link);
 }
