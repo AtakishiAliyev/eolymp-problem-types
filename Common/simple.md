@@ -1,130 +1,130 @@
 **Simple**
-[1](https://www.eolymp.com/az/problems/1){:target="_blank"}
-[2](https://www.eolymp.com/az/problems/2){:target="_blank"}
-[519](https://www.eolymp.com/az/problems/519){:target="_blank"}
-[902](https://www.eolymp.com/az/problems/902){:target="_blank"}
-[903](https://www.eolymp.com/az/problems/903){:target="_blank"}
-[906](https://www.eolymp.com/az/problems/906){:target="_blank"}
-[911](https://www.eolymp.com/az/problems/911){:target="_blank"}
-[929](https://www.eolymp.com/az/problems/929){:target="_blank"}
-[931](https://www.eolymp.com/az/problems/931){:target="_blank"}
-[933](https://www.eolymp.com/az/problems/933){:target="_blank"}
-[935](https://www.eolymp.com/az/problems/935){:target="_blank"}
-[939](https://www.eolymp.com/az/problems/939){:target="_blank"}
-[941](https://www.eolymp.com/az/problems/941){:target="_blank"}
-[943](https://www.eolymp.com/az/problems/943){:target="_blank"}
-[945](https://www.eolymp.com/az/problems/945){:target="_blank"}
-[949](https://www.eolymp.com/az/problems/949){:target="_blank"}
-[953](https://www.eolymp.com/az/problems/953){:target="_blank"}
-[955](https://www.eolymp.com/az/problems/955){:target="_blank"}
-[957](https://www.eolymp.com/az/problems/957){:target="_blank"}
-[959](https://www.eolymp.com/az/problems/959){:target="_blank"}
-[990](https://www.eolymp.com/az/problems/990){:target="_blank"}
-[1024](https://www.eolymp.com/az/problems/1024){:target="_blank"}
-[1603](https://www.eolymp.com/az/problems/1603){:target="_blank"}
-[1605](https://www.eolymp.com/az/problems/1605){:target="_blank"}
-[2733](https://www.eolymp.com/az/problems/2733){:target="_blank"}
-[4083](https://www.eolymp.com/az/problems/4083){:target="_blank"}
-[4715](https://www.eolymp.com/az/problems/4715){:target="_blank"}
-[4716](https://www.eolymp.com/az/problems/4716){:target="_blank"}
-[4717](https://www.eolymp.com/az/problems/4717){:target="_blank"}
-[4718](https://www.eolymp.com/az/problems/4718){:target="_blank"}
-[4805](https://www.eolymp.com/az/problems/4805){:target="_blank"}
-[5050](https://www.eolymp.com/az/problems/5050){:target="_blank"}
-[5133](https://www.eolymp.com/az/problems/5133){:target="_blank"}
-[5175](https://www.eolymp.com/az/problems/5175){:target="_blank"}
-[5314](https://www.eolymp.com/az/problems/5314){:target="_blank"}
-[6277](https://www.eolymp.com/az/problems/6277){:target="_blank"}
-[6278](https://www.eolymp.com/az/problems/6278){:target="_blank"}
-[7366](https://www.eolymp.com/az/problems/7366){:target="_blank"}
-[7367](https://www.eolymp.com/az/problems/7367){:target="_blank"}
-[7401](https://www.eolymp.com/az/problems/7401){:target="_blank"}
-[7460](https://www.eolymp.com/az/problems/7460){:target="_blank"}
-[7491](https://www.eolymp.com/az/problems/7491){:target="_blank"}
-[7943](https://www.eolymp.com/az/problems/7943){:target="_blank"}
-[7944](https://www.eolymp.com/az/problems/7944){:target="_blank"}
-[8172](https://www.eolymp.com/az/problems/8172){:target="_blank"}
-[8242](https://www.eolymp.com/az/problems/8242){:target="_blank"}
-[8243](https://www.eolymp.com/az/problems/8243){:target="_blank"}
-[8254](https://www.eolymp.com/az/problems/8254){:target="_blank"}
-[8280](https://www.eolymp.com/az/problems/8280){:target="_blank"}
-[8318](https://www.eolymp.com/az/problems/8318){:target="_blank"}
-[8319](https://www.eolymp.com/az/problems/8319){:target="_blank"}
-[8371](https://www.eolymp.com/az/problems/8371){:target="_blank"}
-[8372](https://www.eolymp.com/az/problems/8372){:target="_blank"}
-[8520](https://www.eolymp.com/az/problems/8520){:target="_blank"}
-[8521](https://www.eolymp.com/az/problems/8521){:target="_blank"}
-[8522](https://www.eolymp.com/az/problems/8522){:target="_blank"}
-[8523](https://www.eolymp.com/az/problems/8523){:target="_blank"}
-[8526](https://www.eolymp.com/az/problems/8526){:target="_blank"}
-[8531](https://www.eolymp.com/az/problems/8531){:target="_blank"}
-[8569](https://www.eolymp.com/az/problems/8569){:target="_blank"}
-[8592](https://www.eolymp.com/az/problems/8592){:target="_blank"}
-[8599](https://www.eolymp.com/az/problems/8599){:target="_blank"}
-[8600](https://www.eolymp.com/az/problems/8600){:target="_blank"}
-[8601](https://www.eolymp.com/az/problems/8601){:target="_blank"}
-[8602](https://www.eolymp.com/az/problems/8602){:target="_blank"}
-[8603](https://www.eolymp.com/az/problems/8603){:target="_blank"}
-[8604](https://www.eolymp.com/az/problems/8604){:target="_blank"}
-[8605](https://www.eolymp.com/az/problems/8605){:target="_blank"}
-[8606](https://www.eolymp.com/az/problems/8606){:target="_blank"}
-[8607](https://www.eolymp.com/az/problems/8607){:target="_blank"}
-[8608](https://www.eolymp.com/az/problems/8608){:target="_blank"}
-[8609](https://www.eolymp.com/az/problems/8609){:target="_blank"}
-[8610](https://www.eolymp.com/az/problems/8610){:target="_blank"}
-[8623](https://www.eolymp.com/az/problems/8623){:target="_blank"}
-[8627](https://www.eolymp.com/az/problems/8627){:target="_blank"}
-[8638](https://www.eolymp.com/az/problems/8638){:target="_blank"}
-[8639](https://www.eolymp.com/az/problems/8639){:target="_blank"}
-[8682](https://www.eolymp.com/az/problems/8682){:target="_blank"}
-[8689](https://www.eolymp.com/az/problems/8689){:target="_blank"}
-[8690](https://www.eolymp.com/az/problems/8690){:target="_blank"}
-[8800](https://www.eolymp.com/az/problems/8800){:target="_blank"}
-[8801](https://www.eolymp.com/az/problems/8801){:target="_blank"}
-[8802](https://www.eolymp.com/az/problems/8802){:target="_blank"}
-[8803](https://www.eolymp.com/az/problems/8803){:target="_blank"}
-[8804](https://www.eolymp.com/az/problems/8804){:target="_blank"}
-[8805](https://www.eolymp.com/az/problems/8805){:target="_blank"}
-[8806](https://www.eolymp.com/az/problems/8806){:target="_blank"}
-[8807](https://www.eolymp.com/az/problems/8807){:target="_blank"}
-[8808](https://www.eolymp.com/az/problems/8808){:target="_blank"}
-[8809](https://www.eolymp.com/az/problems/8809){:target="_blank"}
-[8810](https://www.eolymp.com/az/problems/8810){:target="_blank"}
-[8813](https://www.eolymp.com/az/problems/8813){:target="_blank"}
-[8814](https://www.eolymp.com/az/problems/8814){:target="_blank"}
-[8815](https://www.eolymp.com/az/problems/8815){:target="_blank"}
-[8816](https://www.eolymp.com/az/problems/8816){:target="_blank"}
-[8817](https://www.eolymp.com/az/problems/8817){:target="_blank"}
-[8824](https://www.eolymp.com/az/problems/8824){:target="_blank"}
-[8825](https://www.eolymp.com/az/problems/8825){:target="_blank"}
-[8826](https://www.eolymp.com/az/problems/8826){:target="_blank"}
-[8827](https://www.eolymp.com/az/problems/8827){:target="_blank"}
-[8828](https://www.eolymp.com/az/problems/8828){:target="_blank"}
-[8829](https://www.eolymp.com/az/problems/8829){:target="_blank"}
-[8830](https://www.eolymp.com/az/problems/8830){:target="_blank"}
-[8831](https://www.eolymp.com/az/problems/8831){:target="_blank"}
-[8832](https://www.eolymp.com/az/problems/8832){:target="_blank"}
-[8833](https://www.eolymp.com/az/problems/8833){:target="_blank"}
-[8834](https://www.eolymp.com/az/problems/8834){:target="_blank"}
-[8835](https://www.eolymp.com/az/problems/8835){:target="_blank"}
-[8836](https://www.eolymp.com/az/problems/8836){:target="_blank"}
-[8837](https://www.eolymp.com/az/problems/8837){:target="_blank"}
-[8840](https://www.eolymp.com/az/problems/8840){:target="_blank"}
-[8841](https://www.eolymp.com/az/problems/8841){:target="_blank"}
-[8855](https://www.eolymp.com/az/problems/8855){:target="_blank"}
-[8890](https://www.eolymp.com/az/problems/8890){:target="_blank"}
-[8921](https://www.eolymp.com/az/problems/8921){:target="_blank"}
-[8923](https://www.eolymp.com/az/problems/8923){:target="_blank"}
-[8981](https://www.eolymp.com/az/problems/8981){:target="_blank"}
-[9026](https://www.eolymp.com/az/problems/9026){:target="_blank"}
-[9405](https://www.eolymp.com/az/problems/9405){:target="_blank"}
-[9406](https://www.eolymp.com/az/problems/9406){:target="_blank"}
-[9423](https://www.eolymp.com/az/problems/9423){:target="_blank"}
-[9539](https://www.eolymp.com/az/problems/9539){:target="_blank"}
-[9551](https://www.eolymp.com/az/problems/9551){:target="_blank"}
-[9625](https://www.eolymp.com/az/problems/9625){:target="_blank"}
-[9636](https://www.eolymp.com/az/problems/9636){:target="_blank"}
-[9649](https://www.eolymp.com/az/problems/9649){:target="_blank"}
-[9651](https://www.eolymp.com/az/problems/9651){:target="_blank"}
-[9652](https://www.eolymp.com/az/problems/9652){:target="_blank"}
-[9653](https://www.eolymp.com/az/problems/9653){:target="_blank"}
+[1](https://www.eolymp.com/az/problems/1){:target="_blank" rel="noopener"}
+[2](https://www.eolymp.com/az/problems/2){:target="_blank" rel="noopener"}
+[519](https://www.eolymp.com/az/problems/519){:target="_blank" rel="noopener"}
+[902](https://www.eolymp.com/az/problems/902){:target="_blank" rel="noopener"}
+[903](https://www.eolymp.com/az/problems/903){:target="_blank" rel="noopener"}
+[906](https://www.eolymp.com/az/problems/906){:target="_blank" rel="noopener"}
+[911](https://www.eolymp.com/az/problems/911){:target="_blank" rel="noopener"}
+[929](https://www.eolymp.com/az/problems/929){:target="_blank" rel="noopener"}
+[931](https://www.eolymp.com/az/problems/931){:target="_blank" rel="noopener"}
+[933](https://www.eolymp.com/az/problems/933){:target="_blank" rel="noopener"}
+[935](https://www.eolymp.com/az/problems/935){:target="_blank" rel="noopener"}
+[939](https://www.eolymp.com/az/problems/939){:target="_blank" rel="noopener"}
+[941](https://www.eolymp.com/az/problems/941){:target="_blank" rel="noopener"}
+[943](https://www.eolymp.com/az/problems/943){:target="_blank" rel="noopener"}
+[945](https://www.eolymp.com/az/problems/945){:target="_blank" rel="noopener"}
+[949](https://www.eolymp.com/az/problems/949){:target="_blank" rel="noopener"}
+[953](https://www.eolymp.com/az/problems/953){:target="_blank" rel="noopener"}
+[955](https://www.eolymp.com/az/problems/955){:target="_blank" rel="noopener"}
+[957](https://www.eolymp.com/az/problems/957){:target="_blank" rel="noopener"}
+[959](https://www.eolymp.com/az/problems/959){:target="_blank" rel="noopener"}
+[990](https://www.eolymp.com/az/problems/990){:target="_blank" rel="noopener"}
+[1024](https://www.eolymp.com/az/problems/1024){:target="_blank" rel="noopener"}
+[1603](https://www.eolymp.com/az/problems/1603){:target="_blank" rel="noopener"}
+[1605](https://www.eolymp.com/az/problems/1605){:target="_blank" rel="noopener"}
+[2733](https://www.eolymp.com/az/problems/2733){:target="_blank" rel="noopener"}
+[4083](https://www.eolymp.com/az/problems/4083){:target="_blank" rel="noopener"}
+[4715](https://www.eolymp.com/az/problems/4715){:target="_blank" rel="noopener"}
+[4716](https://www.eolymp.com/az/problems/4716){:target="_blank" rel="noopener"}
+[4717](https://www.eolymp.com/az/problems/4717){:target="_blank" rel="noopener"}
+[4718](https://www.eolymp.com/az/problems/4718){:target="_blank" rel="noopener"}
+[4805](https://www.eolymp.com/az/problems/4805){:target="_blank" rel="noopener"}
+[5050](https://www.eolymp.com/az/problems/5050){:target="_blank" rel="noopener"}
+[5133](https://www.eolymp.com/az/problems/5133){:target="_blank" rel="noopener"}
+[5175](https://www.eolymp.com/az/problems/5175){:target="_blank" rel="noopener"}
+[5314](https://www.eolymp.com/az/problems/5314){:target="_blank" rel="noopener"}
+[6277](https://www.eolymp.com/az/problems/6277){:target="_blank" rel="noopener"}
+[6278](https://www.eolymp.com/az/problems/6278){:target="_blank" rel="noopener"}
+[7366](https://www.eolymp.com/az/problems/7366){:target="_blank" rel="noopener"}
+[7367](https://www.eolymp.com/az/problems/7367){:target="_blank" rel="noopener"}
+[7401](https://www.eolymp.com/az/problems/7401){:target="_blank" rel="noopener"}
+[7460](https://www.eolymp.com/az/problems/7460){:target="_blank" rel="noopener"}
+[7491](https://www.eolymp.com/az/problems/7491){:target="_blank" rel="noopener"}
+[7943](https://www.eolymp.com/az/problems/7943){:target="_blank" rel="noopener"}
+[7944](https://www.eolymp.com/az/problems/7944){:target="_blank" rel="noopener"}
+[8172](https://www.eolymp.com/az/problems/8172){:target="_blank" rel="noopener"}
+[8242](https://www.eolymp.com/az/problems/8242){:target="_blank" rel="noopener"}
+[8243](https://www.eolymp.com/az/problems/8243){:target="_blank" rel="noopener"}
+[8254](https://www.eolymp.com/az/problems/8254){:target="_blank" rel="noopener"}
+[8280](https://www.eolymp.com/az/problems/8280){:target="_blank" rel="noopener"}
+[8318](https://www.eolymp.com/az/problems/8318){:target="_blank" rel="noopener"}
+[8319](https://www.eolymp.com/az/problems/8319){:target="_blank" rel="noopener"}
+[8371](https://www.eolymp.com/az/problems/8371){:target="_blank" rel="noopener"}
+[8372](https://www.eolymp.com/az/problems/8372){:target="_blank" rel="noopener"}
+[8520](https://www.eolymp.com/az/problems/8520){:target="_blank" rel="noopener"}
+[8521](https://www.eolymp.com/az/problems/8521){:target="_blank" rel="noopener"}
+[8522](https://www.eolymp.com/az/problems/8522){:target="_blank" rel="noopener"}
+[8523](https://www.eolymp.com/az/problems/8523){:target="_blank" rel="noopener"}
+[8526](https://www.eolymp.com/az/problems/8526){:target="_blank" rel="noopener"}
+[8531](https://www.eolymp.com/az/problems/8531){:target="_blank" rel="noopener"}
+[8569](https://www.eolymp.com/az/problems/8569){:target="_blank" rel="noopener"}
+[8592](https://www.eolymp.com/az/problems/8592){:target="_blank" rel="noopener"}
+[8599](https://www.eolymp.com/az/problems/8599){:target="_blank" rel="noopener"}
+[8600](https://www.eolymp.com/az/problems/8600){:target="_blank" rel="noopener"}
+[8601](https://www.eolymp.com/az/problems/8601){:target="_blank" rel="noopener"}
+[8602](https://www.eolymp.com/az/problems/8602){:target="_blank" rel="noopener"}
+[8603](https://www.eolymp.com/az/problems/8603){:target="_blank" rel="noopener"}
+[8604](https://www.eolymp.com/az/problems/8604){:target="_blank" rel="noopener"}
+[8605](https://www.eolymp.com/az/problems/8605){:target="_blank" rel="noopener"}
+[8606](https://www.eolymp.com/az/problems/8606){:target="_blank" rel="noopener"}
+[8607](https://www.eolymp.com/az/problems/8607){:target="_blank" rel="noopener"}
+[8608](https://www.eolymp.com/az/problems/8608){:target="_blank" rel="noopener"}
+[8609](https://www.eolymp.com/az/problems/8609){:target="_blank" rel="noopener"}
+[8610](https://www.eolymp.com/az/problems/8610){:target="_blank" rel="noopener"}
+[8623](https://www.eolymp.com/az/problems/8623){:target="_blank" rel="noopener"}
+[8627](https://www.eolymp.com/az/problems/8627){:target="_blank" rel="noopener"}
+[8638](https://www.eolymp.com/az/problems/8638){:target="_blank" rel="noopener"}
+[8639](https://www.eolymp.com/az/problems/8639){:target="_blank" rel="noopener"}
+[8682](https://www.eolymp.com/az/problems/8682){:target="_blank" rel="noopener"}
+[8689](https://www.eolymp.com/az/problems/8689){:target="_blank" rel="noopener"}
+[8690](https://www.eolymp.com/az/problems/8690){:target="_blank" rel="noopener"}
+[8800](https://www.eolymp.com/az/problems/8800){:target="_blank" rel="noopener"}
+[8801](https://www.eolymp.com/az/problems/8801){:target="_blank" rel="noopener"}
+[8802](https://www.eolymp.com/az/problems/8802){:target="_blank" rel="noopener"}
+[8803](https://www.eolymp.com/az/problems/8803){:target="_blank" rel="noopener"}
+[8804](https://www.eolymp.com/az/problems/8804){:target="_blank" rel="noopener"}
+[8805](https://www.eolymp.com/az/problems/8805){:target="_blank" rel="noopener"}
+[8806](https://www.eolymp.com/az/problems/8806){:target="_blank" rel="noopener"}
+[8807](https://www.eolymp.com/az/problems/8807){:target="_blank" rel="noopener"}
+[8808](https://www.eolymp.com/az/problems/8808){:target="_blank" rel="noopener"}
+[8809](https://www.eolymp.com/az/problems/8809){:target="_blank" rel="noopener"}
+[8810](https://www.eolymp.com/az/problems/8810){:target="_blank" rel="noopener"}
+[8813](https://www.eolymp.com/az/problems/8813){:target="_blank" rel="noopener"}
+[8814](https://www.eolymp.com/az/problems/8814){:target="_blank" rel="noopener"}
+[8815](https://www.eolymp.com/az/problems/8815){:target="_blank" rel="noopener"}
+[8816](https://www.eolymp.com/az/problems/8816){:target="_blank" rel="noopener"}
+[8817](https://www.eolymp.com/az/problems/8817){:target="_blank" rel="noopener"}
+[8824](https://www.eolymp.com/az/problems/8824){:target="_blank" rel="noopener"}
+[8825](https://www.eolymp.com/az/problems/8825){:target="_blank" rel="noopener"}
+[8826](https://www.eolymp.com/az/problems/8826){:target="_blank" rel="noopener"}
+[8827](https://www.eolymp.com/az/problems/8827){:target="_blank" rel="noopener"}
+[8828](https://www.eolymp.com/az/problems/8828){:target="_blank" rel="noopener"}
+[8829](https://www.eolymp.com/az/problems/8829){:target="_blank" rel="noopener"}
+[8830](https://www.eolymp.com/az/problems/8830){:target="_blank" rel="noopener"}
+[8831](https://www.eolymp.com/az/problems/8831){:target="_blank" rel="noopener"}
+[8832](https://www.eolymp.com/az/problems/8832){:target="_blank" rel="noopener"}
+[8833](https://www.eolymp.com/az/problems/8833){:target="_blank" rel="noopener"}
+[8834](https://www.eolymp.com/az/problems/8834){:target="_blank" rel="noopener"}
+[8835](https://www.eolymp.com/az/problems/8835){:target="_blank" rel="noopener"}
+[8836](https://www.eolymp.com/az/problems/8836){:target="_blank" rel="noopener"}
+[8837](https://www.eolymp.com/az/problems/8837){:target="_blank" rel="noopener"}
+[8840](https://www.eolymp.com/az/problems/8840){:target="_blank" rel="noopener"}
+[8841](https://www.eolymp.com/az/problems/8841){:target="_blank" rel="noopener"}
+[8855](https://www.eolymp.com/az/problems/8855){:target="_blank" rel="noopener"}
+[8890](https://www.eolymp.com/az/problems/8890){:target="_blank" rel="noopener"}
+[8921](https://www.eolymp.com/az/problems/8921){:target="_blank" rel="noopener"}
+[8923](https://www.eolymp.com/az/problems/8923){:target="_blank" rel="noopener"}
+[8981](https://www.eolymp.com/az/problems/8981){:target="_blank" rel="noopener"}
+[9026](https://www.eolymp.com/az/problems/9026){:target="_blank" rel="noopener"}
+[9405](https://www.eolymp.com/az/problems/9405){:target="_blank" rel="noopener"}
+[9406](https://www.eolymp.com/az/problems/9406){:target="_blank" rel="noopener"}
+[9423](https://www.eolymp.com/az/problems/9423){:target="_blank" rel="noopener"}
+[9539](https://www.eolymp.com/az/problems/9539){:target="_blank" rel="noopener"}
+[9551](https://www.eolymp.com/az/problems/9551){:target="_blank" rel="noopener"}
+[9625](https://www.eolymp.com/az/problems/9625){:target="_blank" rel="noopener"}
+[9636](https://www.eolymp.com/az/problems/9636){:target="_blank" rel="noopener"}
+[9649](https://www.eolymp.com/az/problems/9649){:target="_blank" rel="noopener"}
+[9651](https://www.eolymp.com/az/problems/9651){:target="_blank" rel="noopener"}
+[9652](https://www.eolymp.com/az/problems/9652){:target="_blank" rel="noopener"}
+[9653](https://www.eolymp.com/az/problems/9653){:target="_blank" rel="noopener"}
